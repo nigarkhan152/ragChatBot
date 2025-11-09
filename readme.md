@@ -93,6 +93,39 @@ POST /ask/{username}
 Home Page
 ![Home Page](./assests/project1.png)
 
+Registration Page
+
+![Home Page](./assests/project2.png)
+
+Sucessfull Registration 
+
+![Home Page](./assests/project3.png)
+
+Login Page
+
+![Home Page](./assests/project4.png)
+
+Google Auth
+
+
+![Home Page](./assests/project5.png)
+
+
+Uploading Page
+
+
+![Home Page](./assests/project6.png)
+
+
+Chat Bot Home Page
+![Home Page](./assests/project7.png)
+![Home Page](./assests/project8.png)
+![Home Page](./assests/project9.png)
+![Home Page](./assests/project10.png)
+![Home Page](./assests/project11.png)
+![Home Page](./assests/project12.png)
+
+
 
 🧩 Future Improvements
 
