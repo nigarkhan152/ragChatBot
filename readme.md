@@ -90,6 +90,7 @@ POST /ask/{username}
 | `/debug_chroma`      | GET    | Inspect vector DB                 |
 | `/api/sessions`      | GET    | Get all chat sessions             |
 
+Home Page
 ![Home Page](./assests/project1.png)
 
 
