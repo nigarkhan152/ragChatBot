@@ -31,24 +31,7 @@ Each user can upload PDFs, and the system automatically:
 | **Deployment**   | Uvicorn / Gunicorn                                     |
 
 ⚙️ Project Structure
-internal-training-2025-nigar/
-├── docs/
-│   ├── nigar/
-│   │   ├── capitalone.pdf
-│   │   └── cloud_application_nigar.pdf
-│   ├── sam/
-│   │   └── weather_project.pdf
-├── chroma_db/
-├── main.py
-├── loader.py
-├── chunks.py
-├── embeder.py
-├── store.py
-├── retrival.py
-├── llm.py
-├── database.py
-├── auth.py
-└── frontend/
+![Home Page](./assests/project13.png)
 
 🧩 How It Works
 1️⃣ Upload Document
@@ -123,6 +106,9 @@ Chat Bot Home Page
 ![Home Page](./assests/project9.png)
 ![Home Page](./assests/project10.png)
 ![Home Page](./assests/project11.png)
+
+MongoDB Storage
+
 ![Home Page](./assests/project12.png)
 
 
