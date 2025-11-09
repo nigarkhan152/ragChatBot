@@ -31,7 +31,11 @@ Each user can upload PDFs, and the system automatically:
 | **Deployment**   | Uvicorn / Gunicorn                                     |
 
 ⚙️ Project Structure
+
+
 ![Home Page](./assests/project13.png)
+
+
 
 🧩 How It Works
 1️⃣ Upload Document
